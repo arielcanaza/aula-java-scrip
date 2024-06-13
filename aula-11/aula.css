@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 20rem;
+    height: 20rem;
+    background-color: tomato;
+}
+
+#meuElemento {
+
+    width: 15rem;
+    height: 15rem;
+    background-color: white;
+}
